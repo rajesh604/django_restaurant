@@ -2,7 +2,7 @@
 
 "builds":[{
 
-"src": "djangoprojectname/wsgi.py",
+"src": "rajeshfoods/wsgi.py",
 
 "use": "@vercel/python",
 
@@ -16,7 +16,7 @@
 
 "src":"/(.*)",
 
-"dest": "djangoprojectname/wsgi.py"
+"dest": "rajeshfoods/wsgi.py"
 
 }
 ]
